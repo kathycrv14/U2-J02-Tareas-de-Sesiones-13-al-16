@@ -1,0 +1,38 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 15px;
+    color: rgb(1, 1, 127);
+}
+
+table{
+    border: 1px solid black;  
+    text-align: center;
+    justify-content: center;
+}
+
+th{
+    background-color: rgb(59, 142, 114);
+    text-align: center;
+    justify-content: center; 
+}
+
+td{
+    background-color: rgb(163, 224, 204);
+    text-align: center;
+    justify-content: center; 
+}
+
+#btnEjercicio1, #btnEjercicio2, #btnEjercicio3, #btnEjercicio4, #btnEjercicio5, #btnEjercicio6, #btnEjercicio7, #btnEjercicio8, #btnEjercicio9, #btnEjercicio10{
+    margin-bottom : 20px;
+    background-color: rgb(248, 188, 228);
+    border: 1px solid black;
+    align-content: center;
+}
